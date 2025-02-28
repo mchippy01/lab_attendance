@@ -1,5 +1,10 @@
 ---
 title: "lab_attendance"
+author:
+  name: Chippy Marx 
 format: html
 ---
+## I have learned about .yml files and how to create them. I learned the importance of having this for you guys to see my work. 
+
+
 
